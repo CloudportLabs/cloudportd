@@ -1,0 +1,37 @@
+[
+  {
+    "timestamp": "2025-01-28T17:23:26.713Z",
+    "RamMax": "8192.00 MB",
+    "Ram": "8129.39 MB",
+    "CoresMax": 8,
+    "Cores": "6.02%"
+  },
+  {
+    "timestamp": "2025-01-28T17:23:36.714Z",
+    "RamMax": "8192.00 MB",
+    "Ram": "8137.45 MB",
+    "CoresMax": 8,
+    "Cores": "5.02%"
+  },
+  {
+    "timestamp": "2025-01-28T17:23:46.715Z",
+    "RamMax": "8192.00 MB",
+    "Ram": "8152.91 MB",
+    "CoresMax": 8,
+    "Cores": "12.69%"
+  },
+  {
+    "timestamp": "2025-01-28T17:35:35.723Z",
+    "RamMax": "8192.00 MB",
+    "Ram": "8066.00 MB",
+    "CoresMax": 8,
+    "Cores": "24.08%"
+  },
+  {
+    "timestamp": "2025-01-28T17:35:45.723Z",
+    "RamMax": "8192.00 MB",
+    "Ram": "8124.19 MB",
+    "CoresMax": 8,
+    "Cores": "39.38%"
+  }
+]

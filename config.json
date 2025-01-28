@@ -1,0 +1,17 @@
+{
+  "_note1": "WARNING: You do not need to touch the following values. Cloudport Daemon will automatically set them.",
+  "remote": "http://localhost:3001",
+  "key": "7880fa1d06142cb847bc36c237cbf35accc9c30ea30d96b6e4b07ad80f310b71",
+  "_note3": "Other configuration options below. Do note this will have a lot of bugs as this is the rigged version",
+  "port": 3002,
+  "version": "1.0 Rigged",
+  "mysql": {
+    "host": "localhost",
+    "user": "root",
+    "password": ""
+  },
+  "ftp": {
+    "ip": "127.0.0.1",
+    "port": 3003
+  }
+}
